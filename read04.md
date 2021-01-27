@@ -42,7 +42,7 @@ it evaluates into **result in** asingle value.
 2-split your goals into task, to desgin your script.
 3- **code** each step using programming languge.
 
-***in first you hsve to use **var** ** ***to creat*** **variable**.***
+***in first you have to use **var** ** ***to creat*** **variable**.***
 ***at the end you have to use the demonstrates how the mathmatical opreators can represnt numberes use*** **document.getElmantById**
 note: anythimg you want to make it stringe just place a quotes around it.
 
