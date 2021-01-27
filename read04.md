@@ -1,8 +1,9 @@
 # javasecript
 
+
 | **what is secript**                    | 
 |----------------------------------------|
-| **ho do coumputer fit in with world?** |
+| **who do coumputer fit in with world?**|
 |----------------------------------------|
 | **expression**                         |
 |----------------------------------------|
