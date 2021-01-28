@@ -3,7 +3,7 @@
 
 | **what is secript**                    | 
 |----------------------------------------|
-| **who do coumputer fit in with world?**|
+| **how do coumputer fit in with world?**|
 |----------------------------------------|
 | **expression**                         |
 |----------------------------------------|
