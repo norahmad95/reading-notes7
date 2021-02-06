@@ -17,3 +17,9 @@
 |read06a    || [Link 6 ](./read06b.md)|
 
 ## Code 102 Reading Notes
+
+| Topic             | linke
+|-------------------|
+|read: 01           | [Link 6 ](./read001.md)
+|-------------------|
+
