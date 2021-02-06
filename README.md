@@ -1,6 +1,6 @@
 # reading-notes7
 
-## Code 201 Reading Notes
+## Code 102  Reading Notes
 ### Noor Ahmad
 |Topic      || Link                   |
 |-----------||------------------------|    
@@ -16,7 +16,7 @@
 |-----------||------------------------|
 |read06a    || [Link 6 ](./read06b.md)|
 
-## Code 102 Reading Notes
+## Code 201 Reading Notes
 
 | Topic             | linke
 |-------------------|
