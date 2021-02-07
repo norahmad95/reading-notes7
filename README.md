@@ -20,6 +20,6 @@
 
 | Topic             | linke
 |-------------------|
-|read: 01           | [Link 6 ](./read001.md)
+|class: 01          | [Link 6 ](./read001.md)
 |-------------------|
-
+|class: 02          | [Link 7 ](./class02.md)
