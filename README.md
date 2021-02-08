@@ -1,9 +1,11 @@
 # reading-notes7
 
 ## Code 102  Reading Notes
+
 ### Noor Ahmad
+
 | Topic     | Link                   
-|-----------|   
+|-----------| -------------------  
 | Read02a   | [Link 1 ](./read02a.md)
 |-----------|
 | Read02b   | [Link 2 ](./read02b.md)
@@ -18,8 +20,8 @@
 
 ## Code 201 Reading Notes
 
-| Topic             | linke
-|-------------------|
+| Topic             | link
+|-------------------|-----------------------
 |class: 01          | [Link 6 ](./read001.md)
 |-------------------|
 |class: 02          | [Link 7 ](./class02.md)
