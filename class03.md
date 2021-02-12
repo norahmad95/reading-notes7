@@ -30,7 +30,9 @@ you can put second list inside an <li> to create sub list or nested list.(exampl
 # boxes:
 
 * controlling size of boxes 
+
 box dimensions:
+
 width,height 
 *the best practice to specify the size of box are to use pixels.*
 
@@ -80,6 +82,7 @@ how to create more complex shape?
 you can target just one corner using the individual properties for the corner.
 
 # what is array ?
+
 its a spacial type of variable, it doesn't  just store on a value it stor a listed value.
 
 ## how to create an array ?
@@ -91,6 +94,7 @@ its a spacial type of variable, it doesn't  just store on a value it stor a list
 **note: the value don't need to be same data type**
 
 ## how to numbering items in array ?
+
 its automatically given number called index, and index value start at 0 not 1.
 
 ## how to changing value in an array?
@@ -102,11 +106,13 @@ its automatically given number called index, and index value start at 0 not 1.
 # if .. else statement :
 
 **what it dose do ?**
+
 its check the condition, if it resolves true the first code block executed. if it resolves to false second code bloc is run.
 
 **what is the using of else statement?**
 
 allows you to provide two sets of code:
+
 1. one set if the condition evaluates to true
 2. another set if the condition is false
 
@@ -120,6 +126,7 @@ the purpose of the switch statement is to present the user with a different mess
 
 
 # what is the loop?
+
 JavaScript loops are used to repeatedly run a block of code
 
 * wht is the structure of the while loop?
@@ -143,9 +150,11 @@ statement;
 ### key words :
 
 ***break***
+
 tells the interpreter to go onto the next statement of code outside of the loop.
 
 ***continue***
+
  tells the interpreter to continue with the current iteration, and then check the condition again.
 
  **note : It is important to remember that when a browser comes across JavaScript, it will stop doing anything else until it has processed that script**

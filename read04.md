@@ -45,5 +45,5 @@ it evaluates into **result in** asingle value.
 
 ***in first you have to use **var** ** ***to creat*** **variable**.***
 ***at the end you have to use the demonstrates how the mathmatical opreators can represnt numberes use*** **document.getElmantById**
-note: anythimg you want to make it stringe just place a quotes around it.
+note: anything you want to make it stringe just place a quotes around it.
 

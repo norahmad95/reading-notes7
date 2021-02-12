@@ -21,15 +21,15 @@
 ***comparison operators usully return single value of true or false .***
 *logical operators allow you to compare the result of more than one comparison opreator*
 
-### for loope:
+## of for loops:
 for (inti;condition;update){
-statment;
+statement;
 }
 
-### while loope:
+## while loops:
 inti:
 while (condition){
-do statment;
+do statement;
 update;
 }
 
