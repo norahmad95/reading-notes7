@@ -30,6 +30,6 @@
 |-------------------|
 |class :04          | [link 7 ](./class04.md)
 |-------------------|
-| class             | [link 8 ](./class05.md)
+| class :05         | [link 8 ](./class05.md)
 |-------------------|
 |class : 06         | [link 9 ](./class06.md)
