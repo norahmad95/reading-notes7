@@ -32,4 +32,7 @@
 |-------------------|
 |class :05          | [link 8 ](./class05.md)
 |-------------------|
-|class : 06         | [link 9 ](./class06.md)
+|class: 06          | [link 9 ](./class06.md)
+|-------------------|
+|repeat layout      | [link 9 ](./class07.md)
+
