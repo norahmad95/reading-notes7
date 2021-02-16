@@ -20,7 +20,7 @@
 
  **note** : Designers keep pages within 960-1000 pixels wide, and indicate what the site is about within the top 600 pixels (to demonstrate its relevance without scrolling).
 
- ## CSS Frameworks provide rules for common tasks.
+ ##  CSS Frameworks provide rules for common tasks.
 
  is a library allowing for easier, more standards-compliant web design using the Cascading Style Sheets language
 
