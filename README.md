@@ -28,11 +28,13 @@
 |-------------------|
 |class: 03          | [Link 8 ](./class03.md)
 |-------------------|
-|class :04          | [link 7 ](./class04.md)
+|class :04          | [link 9 ](./class04.md)
 |-------------------|
-|class :05          | [link 8 ](./class05.md)
+|class :05          | [link 10 ](./class05.md)
 |-------------------|
-|class: 06          | [link 9 ](./class06.md)
+|class: 06          | [link 11 ](./class06.md)
 |-------------------|
-|repeat layout      | [link 9 ](./class07.md)
+|repeat layout      | [link 12 ](./class08.md)
+|-------------------|
+|class: 07          | [link 13](./class07.md)
 
