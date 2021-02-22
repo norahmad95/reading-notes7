@@ -100,7 +100,8 @@ the **new** key and the object constructor create blank object. you can then add
  to update the value of properties, use dot natation or square brackets. they work on objects created using literal or constructor notation to delete property, use the **delete** word.
 
 
- #### briefly :
+ #### briefly:
+ 
 
  * Functions allow you to group a set of related statements together that represent a single task. 
 

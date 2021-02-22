@@ -37,4 +37,8 @@
 |repeat layout      | [link 12 ](./class08.md)
 |-------------------|
 |class: 07          | [link 13](./class07.md)
+|-------------------|
+|class: 09          | [link 14](./class09.md)
+|-------------------|
+|class: 12          | [link 14](./class12.md)
 
