@@ -40,5 +40,6 @@
 |-------------------|
 |class: 09          | [link 14](./class09.md)
 |-------------------|
-|class: 12          | [link 14](./class12.md)
-
+|class: 12          | [link 15](./class12.md)
+|-------------------|
+|class: 13          |[link 16](./class13.md)
