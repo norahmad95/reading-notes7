@@ -11,4 +11,15 @@ The stage is not a terrifying place as some believe, if you take it in terms of 
 
 ## as me what I can do things that you will implement to improve your anxiety when giving a presentation?
 
-* dont look at pepole eyes
+* don't look at people eyes look at there head.but Make connections with your audience: Smile and greet people, thinking of them as friends rather than enemies.
+* make a plane ta talk about your goal.
+* whole you are speaking Use Metaphors, Similes, and Analogies.
+*  keep in mind your audience’s capacity for remembering information.
+* avoid a few nervous body language cues when speaking. 
+
+
+ 
+
+
+
+
