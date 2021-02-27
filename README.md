@@ -46,4 +46,7 @@
 |-------------------|
 |class: 14a         | [link 17](./class14a.md)
 |-------------------|
-|StageFright.md     |[link 17](StageFright.md)
+|StageFright.md     |[link 18](StageFright.md)
+|-------------------|
+|Debugging          |[link 19](Debugging.md)
+|-------------------|
